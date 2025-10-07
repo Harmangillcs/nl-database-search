@@ -37,12 +37,12 @@ OPENAI_API_KEY=your_api_key_here
 python process.py
 ```
 
-6. Save and run SQL query using LLM Model
+5. Save and run SQL query using LLM Model
 ```bash
 python sql_integration.py
 ```
 
-7.Run streamlit app
+6.Run streamlit app
 ```bash
 streamlit run app.py
 ```
