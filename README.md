@@ -18,6 +18,8 @@ Users can type questions in plain English, and the system retrieves results from
 
 1. Clone the repository:
 ```bash
+https://github.com/Harmangillcs/nl-database-search.git
+
 ```
 
 2. Install all dependencies
