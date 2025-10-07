@@ -1,0 +1,12 @@
+pymysql
+pandas
+numpy
+openai
+faiss-cpu
+langchain
+transformers
+sentence-transformers
+langchain_community
+dotenv
+streamlit
+langchain-experimental
